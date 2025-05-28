@@ -242,7 +242,7 @@ if __name__ == '__main__':
     # Main parameters
     num = 1  # Number of starting points
     max_iters = 10  # Maximum number of iterations
-    n = 10  # Size of x
+    n = 10 # Size of x
     alpha = np.random.rand(1)  # Alpha parameter
     mu0 = np.random.rand(1)  # Mu0 parameter
 
@@ -254,3 +254,6 @@ if __name__ == '__main__':
 
     # Plot trajectory
     # plot_x(sol_all1,count,max_iters1)
+
+
+    
